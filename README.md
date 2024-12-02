@@ -1,0 +1,1 @@
+First project of the odin project. I'll be doing a simple html project in which I'll make use of simple text elements, links and images.
